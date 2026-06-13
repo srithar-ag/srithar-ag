@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Padma Sritharan AG</h1>
 <h3 align="center">Data Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srithar-ag" alt="srithar-ag" /></a> </p>
 
 - 🔭 I’m currently working on [Hyperlap](https://github.com/srithar-ag/HyperLap)
 
 - 🌱 I’m currently learning **Python, Data Structures & Algorithms, Node.js, Express.js**
 
-- Recently Added Project [Verify.Ai](https://github.com/srithar-ag/verify.ai)
+-    Recently Added Project [Verify.Ai](https://github.com/srithar-ag/verify.ai)
 
 - 👨‍💻 All of my projects are available at [Updating soon](Updating soon)
 
